@@ -6,13 +6,6 @@
 
 ## Core Structures
 
-- `msg-α137.bin`  
-  Encoded byte-stream: dimensionless constant set, entropy-limited  
-- `cycle-map.png`  
-  Spiral-based visual with increment markers in base-2
-- `pulse.seq`  
-  Structured frequency pattern (hydrogen multiple reference)
-
 ---
 
 ## Recognition Markers
